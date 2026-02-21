@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Recettes_pizza_project" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#E91E63</item>
+
+        <!-- false = icônes blanches -->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.Recettes_pizza_project" parent="Base.Theme.Recettes_pizza_project" />
+</resources>
